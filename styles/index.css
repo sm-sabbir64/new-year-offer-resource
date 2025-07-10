@@ -7,11 +7,10 @@ body{
     background-image: url('../images/Banner\ Image.png');
     background-repeat: no-repeat;
     background-size: 100%;
-    max-width: 1320px;
+    max-width: 1320;
     height: 600px;
-    margin:50px 177px;
     border-radius: 16px;
-    margin-bottom: 120px;
+    margin:50px 177px;
 
 }
 .banner-content{
